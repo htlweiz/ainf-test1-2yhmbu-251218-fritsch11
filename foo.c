@@ -3,7 +3,7 @@
 int main(void)
 {
     printf("%s\n", "Hallo Welt!");
-//Aufgabe 1: Weihnachtskekse
+printf("Aufgabe 1: Weihnachtskekse\n")
 int number_biscuits = 0;
 
 printf("Gib die Anzahl der Kekse ein \n");
@@ -19,10 +19,17 @@ printf("Für die Glasur aller %d Kekse wird Schokolade für ");
 
 
 
-//Aufgabe 2: Christbaumschmuck
+printf("Aufgabe 2: Christbaumschmuck\n");
 int candles = 0;
 printf("Gib die Anzahl der Kerzen ein \n");
 scanf("%d" , candles);
+float price_candles = candles = 1,90
+
+int balls = 0;
+printf("Gib die Anzahl der Kugeln ein \n");
+scanf("%d" , balls);
+float price_balls = balls = 4,90;
+
 
 
 }
